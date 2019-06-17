@@ -21,7 +21,7 @@ Slime Slasher: Dungeon of Draw
 
 * Akkarapon "First" Kuwattanasiri
 
-### Special Thanks
+### Game Producer
 
 * Saran "P' Po" Dumronggittigule
 
