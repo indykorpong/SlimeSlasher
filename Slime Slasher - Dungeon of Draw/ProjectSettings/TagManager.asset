@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GridHitBox
+  - DisplaySample
+  - Monsters
+  - MonsterDrawing
+  - MonsterSprite
+  - SidewaysMonster
+  - sfx
+  - bgm
+  - Score Text
+  - Main Menu
+  - Player Text
+  - NormalBlob
+  - FastBlob
+  - SniperBlob
+  - ToughBlob
+  - CongaBlob
+  - CongaBack
+  - Bullet
+  - HellBlob
+  - UnhellBlob
+  - MultiplierBlob
+  - HealBlob
+  - ExplodeBlob
+  - NormalBG
+  - ShieldBlob
+  - TapperBlob
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

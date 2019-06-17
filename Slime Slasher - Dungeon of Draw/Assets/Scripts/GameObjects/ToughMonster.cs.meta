@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e34399ecbb019d440a5402f504437565
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myMonsterSprite: {instanceID: 0}
+  - noDamage: {fileID: 21300000, guid: 62ef5cfe27fc10d45a9889156de922d2, type: 3}
+  - oneDamage: {fileID: 21300000, guid: b976e7d7cc5167d47afb7f80c189de42, type: 3}
+  - twoDamage: {fileID: 21300000, guid: bc5a40ca71531074db06ae2c9e9d4daa, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
